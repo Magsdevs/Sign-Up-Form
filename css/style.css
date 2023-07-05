@@ -21,7 +21,7 @@ body {
 .aside {
   width: 40%;
   height: 100%;
-  background-image: url(/img/peter-thomas-iqyiopqlFJ8-unsplash.jpg);
+  background-image: url(../img/peter-thomas-iqyiopqlFJ8-unsplash.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
